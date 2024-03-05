@@ -6,6 +6,4 @@ This Java program is part of the Learn Java course on Codecademy. It outputs a c
 
    ```bash
    javac Continents.java
-
-   ```bash
    java Continets
